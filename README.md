@@ -48,16 +48,6 @@ This repository contains our end-to-end pipeline for assessing flood-induced agr
 - Super-resolution (EDSR) substantially improves full damage classification compared to raw Sentinel-2.
 - UNet benefits from enhanced spatial details, especially for fragmented or narrow crop parcels.
 
----
-
-## 🗂️ Folder Structure
-
-  ├── data/ # Processed GeoTIFFs and masks
-  ├── notebooks/ # End-to-end pipeline in Jupyter
-  ├── models/ # Trained EDSR & UNet weights
-  ├── visualizations/ # PNG overlays, bar plots, flowcharts
-  └── utils/ # Helper functions for patching, SR, metrics
-
 
 ---
 
