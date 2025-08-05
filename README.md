@@ -1,5 +1,12 @@
 # 🌾 Flood Damage Assessment using Super-Resolved Satellite Imagery
 
+### 📓 Main Notebook
+
+[🔗 Drive Link to Main Notebook (UNet + EDSR)](https://drive.google.com/file/d/1MZrLEmmQAqea9gHeTEtJHl-jfKwE5SjJ/view?usp=sharing)
+
+This notebook includes the complete pipeline for both **UNet-based classification** and **EDSR-based super-resolution** workflows.
+
+
 This repository contains our end-to-end pipeline for assessing flood-induced agricultural damage using low-resolution Sentinel-2 imagery enhanced via Super-Resolution (EDSR) and classified using a UNet model. The approach improves classification fidelity by bridging the resolution gap between Sentinel-2 (10m) and PlanetScope (3m).
 
 ---
